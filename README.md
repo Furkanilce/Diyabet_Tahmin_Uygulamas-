@@ -37,4 +37,7 @@ Kullanım:
     
 Tarayıcıda açılan arayüzden bilgilerinizi girerek diyabet riskinizi öğrenin.
 
+Lisans:
+  Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
+
 
