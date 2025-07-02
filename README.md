@@ -1,7 +1,5 @@
 Bu proje, XGBoost algoritması kullanarak kullanıcıdan alınan tıbbi ve kişisel bilgileri değerlendirip diyabet riskini tahmin eden bir Streamlit web uygulamasıdır.
 
-Kaynaklar:
-
    ## 📚 İlham Kaynağı / Referans
   
   Bu proje, IEEE Xplore’da yayımlanmış olan  
