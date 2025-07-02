@@ -13,7 +13,9 @@ Kaynaklar:
   *Use of Machine Learning Techniques to Predict Diabetes at an Early Stage*,  
   2021 International Conference on Networking and Advanced Systems (ICNAS), Annaba, Algeria,  
   27-28 October 2021, 
+  
   🔗 [IEEE Xplore'da Görüntüle](https://ieeexplore.ieee.org/document/9628903)  
+  
   📌 DOI: [10.1109/ICNAS53565.2021.9628903](https://doi.org/10.1109/ICNAS53565.2021.9628903)
 
   ## 📊 Veri Seti Hakkında
@@ -22,6 +24,7 @@ Bu projede kullanılan veri seti,
 **“Use of Machine Learning Techniques to Predict Diabetes at an Early Stage”**  
 adlı IEEE Xplore’da yayımlanmış akademik çalışmaya ait veriler kullanılarak oluşturulmuştur.  
 Veri seti, makalenin yazarları tarafından toplanmış ve işlenmiştir.
+
 [Veri Seti Linki](https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)
 
 Özellikler:
