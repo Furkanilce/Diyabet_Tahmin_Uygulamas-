@@ -16,7 +16,7 @@ Bu proje, XGBoost algoritması kullanarak kullanıcıdan alınan tıbbi ve kişi
   
   📌 DOI: [10.1109/ICNAS53565.2021.9628903](https://doi.org/10.1109/ICNAS53565.2021.9628903)
 
-  ## 📊 Veri Seti Hakkında
+ ## 📊 Veri Seti Hakkında
 
 Bu projede kullanılan veri seti,  
 **“Use of Machine Learning Techniques to Predict Diabetes at an Early Stage”**  
@@ -25,7 +25,7 @@ Veri seti, makalenin yazarları tarafından toplanmış ve işlenmiştir.
 
 [Veri Seti Linki](https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)
 
-Özellikler:
+## Özellikler
 
  - Kullanıcı dostu arayüz ile kolay veri girişi
  - Diyabet riskini % olasılıkla tahmin etme
@@ -33,7 +33,7 @@ Veri seti, makalenin yazarları tarafından toplanmış ve işlenmiştir.
  - Model ve encoder dosyaları joblib ile saklanmakta ve yüklenmektedir
  - Tahmin sonuçları kullanıcıya anlaşılır şekilde sunulmaktadır
 
-Kullanılan Teknolojiler ve Kütüphaneler:
+## Kullanılan Teknolojiler ve Kütüphaneler
 
  - Python 3.x
  - pandas
@@ -43,7 +43,7 @@ Kullanılan Teknolojiler ve Kütüphaneler:
  - joblib
  - streamlit
 
-Kullanım:
+## Kullanım
 
   Projeyi klonlayın veya indirin
   
@@ -57,7 +57,7 @@ Kullanım:
   ```
 Tarayıcıda açılan arayüzden bilgilerinizi girerek diyabet riskinizi öğrenin.
 
-Lisans:
+## Lisans
   Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
 
 
