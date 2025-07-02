@@ -29,34 +29,34 @@ Veri seti, makalenin yazarları tarafından toplanmış ve işlenmiştir.
 
 Özellikler:
 
-  Kullanıcı dostu arayüz ile kolay veri girişi
-  Diyabet riskini % olasılıkla tahmin etme
-  Model eğitimi ve kodlama için Python, scikit-learn, XGBoost ve Streamlit kullanıldı
-  Model ve encoder dosyaları joblib ile saklanmakta ve yüklenmektedir
-  Tahmin sonuçları kullanıcıya anlaşılır şekilde sunulmaktadır
+ - Kullanıcı dostu arayüz ile kolay veri girişi
+ - Diyabet riskini % olasılıkla tahmin etme
+ - Model eğitimi ve kodlama için Python, scikit-learn, XGBoost ve Streamlit kullanıldı
+ - Model ve encoder dosyaları joblib ile saklanmakta ve yüklenmektedir
+ - Tahmin sonuçları kullanıcıya anlaşılır şekilde sunulmaktadır
 
 Kullanılan Teknolojiler ve Kütüphaneler:
 
-  Python 3.x
-  pandas
-  numpy
-  scikit-learn
-  xgboost
-  joblib
-  streamlit
+ - Python 3.x
+ - pandas
+ - numpy
+ - scikit-learn
+ - xgboost
+ - joblib
+ - streamlit
 
 Kullanım:
 
   Projeyi klonlayın veya indirin
   
   Gerekli kütüphaneleri yükleyin:
-  
+  ```bash
     pip install -r requirements.txt
-    
+   ``` 
   Uygulamayı çalıştırın:
-  
+  ```bash
     streamlit run app.py
-    
+  ```
 Tarayıcıda açılan arayüzden bilgilerinizi girerek diyabet riskinizi öğrenin.
 
 Lisans:
